@@ -21,12 +21,10 @@ To write a program to predict the profit of a city using the linear regression m
 7. Print the Prediction – Display the predicted value. 
 
 ## Program:
-```
-/*
+
 Developed by: ASTLE JOE A S
 RegisterNumber:  212224240019
-*/
-```
+
 ```
 Program to implement the linear regression using gradient descent.
 /*
